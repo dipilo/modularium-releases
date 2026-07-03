@@ -1,0 +1,16 @@
+[
+  {
+    "id": "example-hello",
+    "name": "Hello Example",
+    "author": "dipilo",
+    "description": "A tiny reference plugin that adds a toolbar button and a settings tab.",
+    "repo": "dipilo/modularium-plugin-hello"
+  },
+  {
+    "id": "pack-stats",
+    "name": "Pack Stats",
+    "author": "community",
+    "description": "Adds a pack action that reports mod/resource counts and estimated size.",
+    "repo": "someuser/modularium-pack-stats"
+  }
+]
