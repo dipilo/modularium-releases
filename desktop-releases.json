@@ -1,0 +1,8 @@
+{
+  "latestVersion": "0.4.0",
+  "releaseDate": "2026-07-04",
+  "downloads": {
+    "windows-x64": "https://github.com/dipilo/modularium-releases/releases/download/v0.4.0/Modularium_0.4.0_x64-setup.exe"
+  },
+  "changelog": "https://github.com/dipilo/modularium-releases/releases/tag/v0.4.0"
+}
